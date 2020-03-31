@@ -6,6 +6,14 @@ LandTick version mobile is a application that provides train tickets online so t
 
 ## Table of Contents
 * [Getting Started][#getting-started]
+	*  [Prerequisites][#prerequisites]
+	* [Installation][#installation]
+	* [Server Setup][#server-setup]
+	* [Client Setup][#client-setup]
+* [Screenshots][#screenshots]
+* [Built With][#built-with]
+* [Author][#author]
+* License
 
 
 ## Getting Started
@@ -14,5 +22,11 @@ Before starting to install the project, there're some things that need to be don
 
 
 
-
-[#getting-started]: https://github.com/septe01/DW14SMTDY__LandTickVMobile "Getting Started"
+[#getting-started]: #getting-started
+[#prerequisites]: #prerequisites "prerequisites"
+[#installation]: #installation "Installation"
+[#server-setup]: #server-setup "Server Setup"
+[#client-setup]: #client-setup "Client Setup"
+[#screenshots]: #screenshots "Screenshots"
+[#built-with]: #built-with "Built With"
+[#author]: #author "Author"
