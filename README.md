@@ -22,11 +22,11 @@ Before starting to install the project, there're some things that need to be don
 ### Prerequisites
 Make sure all of these are properly installed in your system.
 
-| Application | Download                                                                                              |
-| ----------- | ----------------------------------------------------------------------------------------------------- |
-| Git         | [Windows](https://gitforwindows.org/ "Windows") / [Linux](https://git-scm.com/download/linux "Linux") |
-| Node.js     | [Link](https://nodejs.org/en/download/ "Link")                                                        |
-| React Ntive | [Link](https://reactnative.dev/docs/getting-started "Link")                                           |
+| Application  | Download                                                                                              |
+| ------------ | ----------------------------------------------------------------------------------------------------- |
+| Git          | [Windows](https://gitforwindows.org/ "Windows") / [Linux](https://git-scm.com/download/linux "Linux") |
+| Node.js      | [Link](https://nodejs.org/en/download/ "Link")                                                        |
+| React Native | [Link](https://reactnative.dev/docs/getting-started "Link")                                           |
 
 ### Installation
 First, clone this repository into your system.
