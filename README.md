@@ -39,9 +39,9 @@ Then, install all the packages that described in `package.json` directories.
 
 
 ### Client Setup
-`-` `npm install` will be install package module after install  Then, run the application.
-`-` open terminal `npm start` will be run server.
-`-` open terminal `npx react-native run-android` will be install aplication in emulator.
+* `npm install` will be install package module after install  Then, run the application.
+* open terminal `npm start` will be run server.
+* open terminal `npx react-native run-android` will be install aplication in emulator.
 
 Wait untill the application is installed into your emulator. Now, you can explore **LandTickApp** and its features. Enjoy!
 
