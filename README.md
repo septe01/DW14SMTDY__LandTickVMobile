@@ -8,7 +8,6 @@ LandTick version mobile is a application that provides train tickets online so t
 * [Getting Started][#getting-started]
 	*  [Prerequisites][#prerequisites]
 	* [Installation][#installation]
-	* [Server Setup][#server-setup]
 	* [Client Setup][#client-setup]
 * [Screenshots][#screenshots]
 * [Built With][#built-with]
@@ -20,12 +19,51 @@ LandTick version mobile is a application that provides train tickets online so t
 Before starting to install the project, there're some things that need to be done first.
 
 
+### Prerequisites
+Make sure all of these are properly installed in your system.
+
+| Application | Download                                                                                              |
+| ----------- | ----------------------------------------------------------------------------------------------------- |
+| Git         | [Windows](https://gitforwindows.org/ "Windows") / [Linux](https://git-scm.com/download/linux "Linux") |
+| Node.js     | [Link](https://nodejs.org/en/download/ "Link")                                                        |
+| React Ntive | [Link](https://reactnative.dev/docs/getting-started "Link")                                           |
+
+### Installation
+First, clone this repository into your system.
+
+` git clone https://github.com/septe01/DW14SMTDY__LandTickVMobile.git`
+
+Then, install all the packages that described in `package.json` directories.
+
+`npm install`
+
+
+### Client Setup
+`-` `npm install` will be install package module after install  Then, run the application.
+`-` open terminal `npm start` will be run server.
+`-` open terminal `npx react-native run-android` will be install aplication in emulator.
+
+Wait untill the application is installed into your emulator. Now, you can explore **LandTickApp** and its features. Enjoy!
+
+### screenshots
+<img src="https://user-images.githubusercontent.com/30195561/77981953-5e40fe00-7335-11ea-9188-46f486162407.png" alt="home-screen" width="530" height="440">
+<img src="https://user-images.githubusercontent.com/30195561/77982119-bd067780-7335-11ea-80df-1408a8d3bb0b.png" alt="home-screen" width="530" height="440">
+
+
+### Built With
+
+* [React Native](https://reactnative.dev/ "ReactNative") - Framework JavaScript
+<!-- * [Express JS ](https://expressjs.com/en/starter/installing.html "Express JS ")- Back-end
+* [MySQL](https://www.mysql.com/downloads/ "MySQL") - Database -->
+
+### Author
+
+#### SepteHabudin  - [septe01](https://github.com/septe01/ "septe01")
 
 
 [#getting-started]: #getting-started
 [#prerequisites]: #prerequisites "prerequisites"
 [#installation]: #installation "Installation"
-[#server-setup]: #server-setup "Server Setup"
 [#client-setup]: #client-setup "Client Setup"
 [#screenshots]: #screenshots "Screenshots"
 [#built-with]: #built-with "Built With"
