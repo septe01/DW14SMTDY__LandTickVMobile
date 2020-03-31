@@ -1,6 +1,7 @@
 # LandTick Mobile
 
-![HiShoot_20200330_203919](https://user-images.githubusercontent.com/30195561/77977388-c853a600-7329-11ea-8c8f-8d29f68b73f6.png)
+![HiShoot_20200330_203919](https://user-images.githubusercontent.com/30195561/77977388-c853a600-7329-11ea-8c8f-8d29f68b73f6.png){:height="440px" width="200px"}
+
 LandTick version mobile is a application that provides train tickets online so that users do not bother to buy tickets, this application makes it easy for someone to travel using the train transportation mode where users do not have to queue anymore..
 
 **Table of Contents**
@@ -57,10 +58,10 @@ Indented 4 spaces, like `<pre>` (Preformatted Text).
     
 Code Blocks (Preformatted text):
 
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  |
+    | First Header | Second Header |
+    | ------------ | ------------- |
+    | Content Cell | Content Cell  |
+    | Content Cell | Content Cell  |
 
 ####Javascript　
 
@@ -174,32 +175,32 @@ Image:
                     
 ###Tables
                     
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header | Second Header |
+| ------------ | ------------- |
+| Content Cell | Content Cell  |
+| Content Cell | Content Cell  |
 
-| Function name | Description                    |
-| ------------- | ------------------------------ |
-| `help()`      | Display the help window.       |
-| `destroy()`   | **Destroy your computer!**     |
+| Function name | Description                |
+| ------------- | -------------------------- |
+| `help()`      | Display the help window.   |
+| `destroy()`   | **Destroy your computer!** |
 
-| Item      | Value |
-| --------- | -----:|
-| Computer  | $1600 |
-| Phone     |   $12 |
-| Pipe      |    $1 |
+| Item     | Value |
+| -------- | ----: |
+| Computer | $1600 |
+| Phone    |   $12 |
+| Pipe     |    $1 |
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| :------------ | :-------------: | ------------: |
+| col 3 is      | some wordy text |         $1600 |
+| col 2 is      |    centered     |           $12 |
+| zebra stripes |    are neat     |            $1 |
                 
 ----
 
