@@ -6,6 +6,8 @@ LandTick version mobile is a application that provides train tickets online so t
 
 ## Table of Contents
 
+* [Getting Started][getting-started]
+
 * [Getting Started][#getting-Started]
 	*  [Prerequisites][#prerequisites]
 	* [Installation][#installation]
